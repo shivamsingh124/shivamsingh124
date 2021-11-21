@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Shivam!</h1>
 <h3 align="center">I am a full stack developer in the process of learning a bit everyday through the projects I build. I love to build stuff on the web.</h3>
-<p></p>
-<p></p>
 <p align="center "><img src="https://komarev.com/ghpvc/?username=shivamsingh124&label=Shivam%20Profile%20views&color=0e75b6&style=flat" alt="Shivam_Singh" /></p>
 
 - 🔭 I’m currently working at **Upgrad Education**
