@@ -1,9 +1,10 @@
-![Shivam Singh](https://socialify.git.ci/shivamsingh124/Windows11/image?description=1&descriptionEditable=Software%20Developer%20Engineer%20Intern%20%40%20Upgrad%20%F0%9F%A6%84&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+![Shivam Singh](https://socialify.git.ci/shivamsingh124/Windows11/image?description=1&descriptionEditable=Software%20Developer%20Engineer%20%40%20Upgrad%20Education%20%F0%9F%A6%84%F0%9F%A6%84&font=Rokkitt&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+
 <h1 align="center">Hi 👋, I'm Shivam!</h1>
 <h3 align="center">I am a full stack developer in the process of learning a bit everyday through the projects I build. I love to build stuff on the web.</h3>
 <p></p>
 <p></p>
-<p align="center "> <img src="https://komarev.com/ghpvc/?username=shivamsingh124&label=Shivam%20Profile%20views&color=0e75b6&style=flat" alt="Shivam_Singh" /></p>
+<p align="center "><img src="https://komarev.com/ghpvc/?username=shivamsingh124&label=Shivam%20Profile%20views&color=0e75b6&style=flat" alt="Shivam_Singh" /></p>
 
 - 🔭 I’m currently working at **Upgrad Education**
 
@@ -23,7 +24,7 @@
 <a href="mailto:shivamsingh12042018@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivamsingh124/shivamsingh124/main/mail.png" alt="Shivam Singh" height="40" width="40" /></a>
 
 <h3 align="left">Time To Judge Me 😂 :</h3>
-<a href="https://www.codechef.com/users/shivams0612w" target="_blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-sd.svg" alt="codechef" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shivams0612w" target="_blank"><img align="center" src="https://discuss.codechef.com/user_avatar/discuss.codechef.com/admin/45/52437_2.png" alt="codechef" height="35" width="30" /></a>
 <a href="https://leetcode.com/Shivams0612w/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 
 
