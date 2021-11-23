@@ -1,7 +1,7 @@
 ![Shivam Singh](https://socialify.git.ci/shivamsingh124/Windows11/image?description=1&descriptionEditable=Software%20Developer%20Engineer%20%40%20Upgrad%20Education%20%F0%9F%A6%84%F0%9F%A6%84&font=Rokkitt&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 
-<h1 align="center">Hi 👋, I'm Shivam!</h1>
-<h3 align="center">I am a full stack developer in the process of learning a bit everyday through the projects I build. I love to build stuff on the web.</h3>
+<h1 align="center">Hi <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/hi.gif" width="30px">, I'm Shivam!</h1>
+<h3 align="center">I'm A Pre-Final Year B.Tech. CSE Student At Maharaja Agrasen Institute of Technology (MAIT), Delhi. I'm A Full-Stack Developer. I Like Exploring New Tools, Technologies & Frameworks, Building Stuff & Solving DSA Problems. I Work Mainly in MERN Stack, Learning A Bit Everyday Through The Projects I Build. I Like To Participate & Compete In Programming Contests & Solving Data Structures & Algorithmic Problems. You Can Reach Out To Me Through LinkedIn.</h3>
 <p align="center "><img src="https://komarev.com/ghpvc/?username=shivamsingh124&label=Shivam%20Profile%20views&color=0e75b6&style=flat" alt="Shivam_Singh" /></p>
 
 - 🔭 I’m currently working at **Upgrad Education**
