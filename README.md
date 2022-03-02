@@ -1,4 +1,4 @@
-![Shivam Singh](https://socialify.git.ci/shivamsingh124/Windows11/image?description=1&descriptionEditable=Software%20Developer%20Engineer%20%40%20Upgrad%20Education%20%F0%9F%A6%84%F0%9F%A6%84&font=Rokkitt&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+![Shivam Singh](https://raw.githubusercontent.com/shivamsingh124/shivamsingh124/main/del.png)
 
 <h1 align="center">Hi <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/hi.gif" width="30px">, I'm Shivam!</h1>
 <h3 align="center">I'm A Pre-Final Year B.Tech. CSE Student At Maharaja Agrasen Institute of Technology (MAIT), Delhi. I'm A Full-Stack Developer. I Like Exploring New Tools, Technologies & Frameworks, Building Stuff & Solving DSA Problems. I Work Mainly in MERN Stack, Learning A Bit Everyday Through The Projects I Build. I Like To Participate & Compete In Programming Contests & Solving Data Structures & Algorithmic Problems. You Can Reach Out To Me Through LinkedIn.</h3>
@@ -22,7 +22,7 @@
 <a href="mailto:shivamsingh12042018@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivamsingh124/shivamsingh124/main/mail.png" alt="Shivam Singh" height="40" width="40" /></a>
 
 <h3 align="left">Time To Judge Me 😂 :</h3>
-<a target="_blank"><img align="center" src="https://discuss.codechef.com/user_avatar/discuss.codechef.com/admin/45/52437_2.png" alt="codechef" height="35" width="30" /></a>
+<a href="https://www.codechef.com/users/" target="_blank"><img align="center" src="https://discuss.codechef.com/user_avatar/discuss.codechef.com/admin/45/52437_2.png" alt="codechef" height="35" width="30" /></a>
 <a href="https://leetcode.com/Shivams0612w/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 
 
