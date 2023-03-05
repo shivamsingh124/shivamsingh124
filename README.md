@@ -1,5 +1,21 @@
 ![Shivam Singh](https://raw.githubusercontent.com/shivamsingh124/shivamsingh124/main/del.png)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
+
+```javascript
+const shivam = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["nodejs"],
+        fronEnd: ["vue.js", "react.js", "next.js"],
+        database: ["mongo","mySql","firestore"],
+        misc: ["Socket.IO"]
+    },
+}
+```
+
+
 <h1 align="center">Hi <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/hi.gif" width="30px">, I'm Shivam!</h1>
 <h3 align="center">I'm A Pre-Final Year B.Tech. CSE Student At Maharaja Agrasen Institute of Technology (MAIT), Delhi. I'm A Full-Stack Developer. I Like Exploring New Tools, Technologies & Frameworks, Building Stuff & Solving DSA Problems. I Work Mainly in MERN Stack, Learning A Bit Everyday Through The Projects I Build. I Like To Participate & Compete In Programming Contests & Solving Data Structures & Algorithmic Problems. You Can Reach Out To Me Through LinkedIn.</h3>
 <p align="center "><img src="https://komarev.com/ghpvc/?username=shivamsingh124&label=Shivam%20Profile%20views&color=0e75b6&style=flat" alt="Shivam_Singh" /></p>
