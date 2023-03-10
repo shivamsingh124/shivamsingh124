@@ -28,7 +28,7 @@ const shivam = {
 
 - ⚡ Available for **Projects and Internship Oppurtunities**
 
-- 📫 How to reach me **shivam1.singh@upgrad.com**
+- 📫 How to reach me **shivamsingh12042018@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +38,7 @@ const shivam = {
 <a href="mailto:shivamsingh12042018@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivamsingh124/shivamsingh124/main/mail.png" alt="Shivam Singh" height="40" width="40" /></a>
 
 <h3 align="left">Time To Judge Me 😂 :</h3>
-<a href="https://www.codechef.com/users/" target="_blank"><img align="center" src="https://discuss.codechef.com/user_avatar/discuss.codechef.com/admin/45/52437_2.png" alt="codechef" height="35" width="30" /></a>
+<a href="" target="_blank"><img align="center" src="https://discuss.codechef.com/user_avatar/discuss.codechef.com/admin/45/52437_2.png" alt="codechef" height="35" width="30" /></a>
 <a href="https://leetcode.com/Shivams0612w/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 
 
