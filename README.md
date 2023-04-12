@@ -20,7 +20,7 @@ const shivam = {
 <h3 align="center">I'm A Pre-Final Year B.Tech. CSE Student At Maharaja Agrasen Institute of Technology (MAIT), Delhi. I'm A Full-Stack Developer. I Like Exploring New Tools, Technologies & Frameworks, Building Stuff & Solving DSA Problems. I Work Mainly in MERN Stack, Learning A Bit Everyday Through The Projects I Build. I Like To Participate & Compete In Programming Contests & Solving Data Structures & Algorithmic Problems. You Can Reach Out To Me Through LinkedIn.</h3>
 <p align="center "><img src="https://komarev.com/ghpvc/?username=shivamsingh124&label=Shivam%20Profile%20views&color=0e75b6&style=flat" alt="Shivam_Singh" /></p>
 
-- 🔭 I’m currently working at **Upgrad Education** And an Fellow @ **MLH**
+- 🔭 I’m currently working at **Google Zurich**, upcoming SDE @**Zomato**, have worked with **Upgrad Education** And an Fellow @ **MLH** & **Goldman Sachs**.
 
 - 🌱 I’m currently learning **Backend Development**
 
