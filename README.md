@@ -1,4 +1,4 @@
-![Shivam Singh](https://raw.githubusercontent.com/shivamsingh124/shivamsingh124/main/del.png)
+![Shivam Singh](https://socialify.git.ci/shivamsingh124/Windows11/image?description=1&font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
 
